@@ -29,3 +29,9 @@ main.js.map
 # Pycharm
 .idea
 
+# venv
+.venv/
+venv/
+.virtualenv/
+virtualenv/
+
